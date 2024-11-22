@@ -26,7 +26,7 @@ nav{
 .logo{
     width: 100px;
     height: 100px;
-    background-image: url("/assets/Logo.png");
+    background-image: url("assets/Logo.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -340,7 +340,7 @@ nav ul li a:hover{
     /*border: 2px solid rgb(123, 255, 0);*/
     display: flex;
     margin-left: 100px;
-    background-image: url("/assets/image-1\ interior-funiture.png");
+    background-image: url("assets/image-1\ interior-funiture.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -384,7 +384,7 @@ nav ul li a:hover{
     position: absolute;
     margin-top: 550px;
     margin-left: 1180px;
-    background-image: url("/assets/Arrow\ down.png");
+    background-image: url("assets/Arrow\ down.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -398,7 +398,7 @@ nav ul li a:hover{
     /*border: 2px solid rgb(123, 255, 0);*/
     display: flex;
     margin-left: 100px;
-    background-image: url("/assets/Image\ 2-interior\ furniture.png");
+    background-image: url("assets/Image\ 2-interior\ furniture.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -409,7 +409,7 @@ nav ul li a:hover{
     height: 20vh;
     /*border: 2px solid purple;*/
     margin-top: 250px;
-    background-image: url("/assets/Counts.png");
+    background-image: url("assets/Counts.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -458,7 +458,7 @@ nav ul li a:hover{
     width: 30%;
     height: 40vh;
     /*border: 1px solid gray;*/
-    background-image: url("/assets/lighting\ design.png");
+    background-image: url("assets/lighting\ design.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -470,7 +470,7 @@ nav ul li a:hover{
     width: 30%;
     height: 40vh;
     /*border: 1px solid gray;*/
-    background-image: url("/assets/interior\ design.png");
+    background-image: url("assets/interior\ design.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -482,7 +482,7 @@ nav ul li a:hover{
     width: 30%;
     height: 40vh;
     /*border: 1px solid gray;*/
-    background-image: url("/assets/outdoor\ design.png");
+    background-image: url("assets/outdoor\ design.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -507,7 +507,7 @@ nav ul li a:hover{
     height: 90vh;
     /*border: 1px solid green;*/
     margin: 20px;
-    background-image: url("/assets/Mask\ group.png");
+    background-image: url("assets/Mask\ group.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -526,7 +526,7 @@ nav ul li a:hover{
     height: 10vh;
     /*border: 1px solid orange;*/
     margin: 20px;
-    background-image: url("/assets/Designing\ Your\ Dream\ With\ Brilliance.png");
+    background-image: url("assets/Designing\ Your\ Dream\ With\ Brilliance.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -537,7 +537,7 @@ nav ul li a:hover{
     height: 30vh;
     /*border: 1px solid blue;*/
     margin: 20px;
-    background-image: url("/assets/Elevate\ your\ spaces\ with\ bespoke\ interior\ designs\ that\ reflect\ your\ unique\ style\ and\ aspirations\,\ crafted\ with\ precision\ and\ brilliance\ for\ an\ unforgettable\ living\ experience.png");
+    background-image: url("assets/Elevate\ your\ spaces\ with\ bespoke\ interior\ designs\ that\ reflect\ your\ unique\ style\ and\ aspirations\,\ crafted\ with\ precision\ and\ brilliance\ for\ an\ unforgettable\ living\ experience.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -548,7 +548,7 @@ nav ul li a:hover{
     height: 10vh;
     /*border: 1px solid gold;*/
     margin: 20px;
-    background-image:url("/assets/Group\ 24\ \(1\).png");
+    background-image:url("assets/Group\ 24\ \(1\).png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -559,7 +559,7 @@ nav ul li a:hover{
     height: 10vh;
     /*border: 1px solid orangered;*/
     margin: 20px;
-    background-image: url("/assets/Group\ 23.png");
+    background-image: url("assets/Group\ 23.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -626,7 +626,7 @@ nav ul li a:hover{
     height: 90vh;
     /*border: 1px solid green;*/
     margin: 20px;
-    background-image: url("/assets/Mask\ group\ \(2\).png");
+    background-image: url("assets/Mask\ group\ \(2\).png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -637,7 +637,7 @@ nav ul li a:hover{
     height: 90vh;
     /*border: 1px solid pink;*/
     margin: 20px;
-    background-image: url("/assets/Group\ 31.png");
+    background-image: url("assets/Group\ 31.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -648,7 +648,7 @@ nav ul li a:hover{
  display: flex;
  width: 97%;
  height: 100vh;
- background-image: url("/assets/Testamonials\ section.png");
+ background-image: url("assets/Testamonials\ section.png");
  background-position: center;
  background-repeat: no-repeat;
  background-size: contain;
@@ -670,7 +670,7 @@ nav ul li a:hover{
     width: 40%;
     height: 10vh;
     /*border: solid blue;*/
-    background-image: url("/assets/Subscribe\ to\ Our\ Newsletter\ for\ Design\ Insights.png");
+    background-image: url("assets/Subscribe\ to\ Our\ Newsletter\ for\ Design\ Insights.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -681,7 +681,7 @@ nav ul li a:hover{
     width: 40%;
     height: 10vh;
     /*border: solid blue;*/
-    background-image: url("/assets/Be\ the\ first\ to\ discover\ trends\,\ inspirations\,\ and\ special\ offers\ as\ we\ bring\ the\ world\ of\ design\ directly\ to\ your\ inbox.png");
+    background-image: url("assets/Be\ the\ first\ to\ discover\ trends\,\ inspirations\,\ and\ special\ offers\ as\ we\ bring\ the\ world\ of\ design\ directly\ to\ your\ inbox.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
@@ -734,8 +734,8 @@ nav ul li a:hover{
     display: flex;
     width: auto;
     height: 50vh;
-    border: 1px solid blue;
-    background-image: url("/assets/Footer.png");
+    /*border: 1px solid blue;*/
+    background-image: url("assets/Footer.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
